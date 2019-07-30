@@ -1,0 +1,2 @@
+The first file in playpen2.
+I'll use it for the commit message via commit -F first_file.txt
